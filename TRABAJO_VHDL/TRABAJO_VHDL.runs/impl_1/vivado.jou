@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Mon Jan  9 19:04:24 2023
+# Process ID: 26668
+# Current directory: C:/Users/chemi/Desktop/TRABAJO_SED_DEFINITIVO_2/con_top_sin_display/con_top_sin_display.runs/impl_1
+# Command line: vivado.exe -log TOP_final.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source TOP_final.tcl -notrace
+# Log file: C:/Users/chemi/Desktop/TRABAJO_SED_DEFINITIVO_2/con_top_sin_display/con_top_sin_display.runs/impl_1/TOP_final.vdi
+# Journal file: C:/Users/chemi/Desktop/TRABAJO_SED_DEFINITIVO_2/con_top_sin_display/con_top_sin_display.runs/impl_1\vivado.jou
+# Running On: LAPTOP-MDENC2PP, OS: Windows, CPU Frequency: 1498 MHz, CPU Physical cores: 4, Host memory: 8263 MB
+#-----------------------------------------------------------
+source TOP_final.tcl -notrace

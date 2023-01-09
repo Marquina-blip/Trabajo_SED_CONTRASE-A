@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/sergi/OneDrive/Escritorio/trabajo_cris_sinDISPLAY/trabajo_cris_sinDISPLAY.srcs/sources_1/imports/Downloads/FMS_GEN2012.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'FMS_GENERAL'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/sergi/OneDrive/Escritorio/trabajo_cris_sinDISPLAY/trabajo_cris_sinDISPLAY.srcs/sources_1/new/TOP_final.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TOP_final'

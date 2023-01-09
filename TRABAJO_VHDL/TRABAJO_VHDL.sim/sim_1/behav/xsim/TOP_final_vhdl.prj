@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../trabajo_cris_sinDISPLAY.srcs/sources_1/new/EDGEDTR.vhd" \
+"../../../../trabajo_cris_sinDISPLAY.srcs/sources_1/imports/Downloads/FMS_COMPROBATION1812.vhd" \
+"../../../../trabajo_cris_sinDISPLAY.srcs/sources_1/imports/Downloads/FMS_CREATE1812.vhd" \
+"../../../../trabajo_cris_sinDISPLAY.srcs/sources_1/imports/Downloads/FMS_GEN2012.vhd" \
+"../../../../trabajo_cris_sinDISPLAY.srcs/sources_1/new/SYNK_B.vhd" \
+"../../../../trabajo_cris_sinDISPLAY.srcs/sources_1/new/TOP_final.vhd" \
+
+# Do not sort compile order
+nosort
